@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AjayK on My New Hugo Site</title>
+    <link>https://github.com/ajaykumar971/ajayblog.github.io/author/ajayk/</link>
+    <description>Recent content in AjayK on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 May 2025 13:59:47 +0530</lastBuildDate>
+    <atom:link href="https://github.com/ajaykumar971/ajayblog.github.io/author/ajayk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to My Digital Home</title>
+      <link>https://github.com/ajaykumar971/ajayblog.github.io/welcome-to-my-digital-home/</link>
+      <pubDate>Mon, 12 May 2025 13:59:47 +0530</pubDate>
+      <guid>https://github.com/ajaykumar971/ajayblog.github.io/welcome-to-my-digital-home/</guid>
+      <description>&lt;p&gt;Hello and welcome!&lt;br&gt;&#xA;I&amp;rsquo;m thrilled to have you here at my little corner of the internet.&lt;/p&gt;&#xA;&lt;p&gt;This site was built using &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, a fast and flexible static site generator that lets me focus on what truly matters—&lt;strong&gt;creating and sharing content&lt;/strong&gt;—without getting caught in the clutter of complex frameworks.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-what-youll-find-here&#34;&gt;🌟 What You&amp;rsquo;ll Find Here&lt;/h2&gt;&#xA;&lt;p&gt;Depending on when you visit, you might find:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🛠️ &lt;strong&gt;Projects&lt;/strong&gt; – Code, builds, experiments, and things I&amp;rsquo;m working on&lt;/li&gt;&#xA;&lt;li&gt;📚 &lt;strong&gt;Blog&lt;/strong&gt; – Articles, thoughts, how-tos, and observations&lt;/li&gt;&#xA;&lt;li&gt;✍️ &lt;strong&gt;Notes&lt;/strong&gt; – Quick tips, references, or drafts in progress&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;why-this-site&#34;&gt;Why This Site?&lt;/h2&gt;&#xA;&lt;p&gt;I wanted a space that feels personal yet professional—a kind of digital workshop. Hugo gives me the freedom to build something fast, responsive, and minimal. If you&amp;rsquo;re a fellow developer, student, or curious explorer, I hope you find value in what I share.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
